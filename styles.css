@@ -1,0 +1,178 @@
+#container{
+    display:flex;
+    flex-direction: row;
+    background-color: #1f2937;
+    justify-content: space-between;
+    color:antiquewhite;
+}
+.head{
+    padding-left: 400px;
+    display: flex;
+    
+}
+
+
+.type{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    padding-top: 20px;
+    gap: 10px;
+    background-color: #1f2937;
+    font-size: smaller;
+    padding-right: 400px;
+   
+}
+
+.top{
+
+    display: flex;
+    background-color: #1f2937;
+color: antiquewhite;
+justify-content: space-between;
+padding-top: 40px;
+
+
+}
+
+ .web {
+
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-left: 400px;
+    padding-right: 100px;
+}
+
+.web span{
+    font-size: 48px;
+    font-weight: bolder;
+    
+    
+
+
+
+
+}
+ .button button{
+height: 20px;
+width:55px;
+background-color: #3882f6;
+border: 0;
+border-radius: 5px;
+color: #e5e7eb;
+font-style: normal;
+
+ 
+}
+
+.image{
+    display: flex;
+    height: 230px;
+    width: 500px;
+    padding-right: 400px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+}
+
+    
+    
+
+.third{
+
+    display: flex;
+    font-size: 44px;
+    font-weight: bold;
+   justify-content: center;
+   color:#1f2937;
+}
+
+.box{
+
+    border:#3882f6;
+     flex-direction: row;
+     display: flex;
+     justify-content: space-between;
+     padding-left: 300px;
+     padding-right: 300px;
+     padding-top: 50px;
+     border: 15px;
+     text-align: center;
+     
+    }
+
+    .quote{
+        background-color: #e5e7eb;
+        text-align: center;
+        padding: 100px;
+        padding-left: 600px;
+        padding-right: 600px;
+    }
+
+    .con1{
+        font-style: italic;
+    }
+    
+.auth{
+
+    font-weight: bold;
+    padding-left: 400px;
+    padding-top: 20px;
+}
+.final {
+    text-align: center;
+    background-color: #3882f6;
+    margin-left:500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    color: #e5e7eb;   
+}
+
+  
+
+ .sign{
+
+    font-size: smaller;
+    padding-left: 70px;
+    padding-right: 200px;
+    padding-bottom:0;
+    
+    
+}
+.poll{
+    display: flex;
+    flex-direction: column;
+}
+.last strong{
+
+    padding-right: 390px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 55px;
+}
+.but{
+
+    margin-top: 18px;
+}
+
+
+
+.but button{
+    
+border-style: solid;
+border-color: antiquewhite;
+background-color: #3882f6;
+border-radius: 5px;
+color: antiquewhite;
+    
+
+}
+ 
+.new{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;}
